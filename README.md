@@ -1,0 +1,2 @@
+# EduContentAI
+Education based outputs
